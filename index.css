@@ -1,3 +1,6 @@
-body{
-    border-top-color : #251f83;
+.fullwidth{
+    width : 100%
+}
+#strip{
+    background-color : #251f83;
 }
