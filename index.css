@@ -8,3 +8,8 @@
     top : 12px;
     left : 130px;
 } 
+nav{
+    position : relative;
+    right : 15px;
+    float : right;
+}
