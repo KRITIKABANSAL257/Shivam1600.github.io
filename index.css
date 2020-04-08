@@ -2,14 +2,18 @@
     height : 1.5%;
     background-color : #251f83;
 }
+#header{
+    background-color : #f4f8f9;
+}
 .logo{
-    width : 260px;
-    position : relative;
-    top : 12px;
-    left : 130px;
+   /* width : 40%; */
+   /* height : 150%; */
+   position : relative;
+   /* top : 12px; */
+   /* left : 130px; */
 } 
 nav{
-    position : relative;
-    top : 12px;
-    float : right;
+   position : relative;
+   top : 12px;
+   float : right;
 }
